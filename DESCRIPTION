@@ -5,7 +5,7 @@ Version: 1.15.0
 Date: 2007-03-19
 Author: Dongxiao Zhu and Youjuan Li	
 Maintainer: Dongxiao Zhu <doz@stowers-institute.org>
-Depends: e1071
+Imports: e1071, stats
 Suggests: cluster
 Description: Multivariate correlation estimation and statistical inference. See package vignette. 
 License: GPL (>= 2)
